@@ -9,3 +9,8 @@ Sau khi có tài khoản xong:
 2. Tạo branch -> nhánh main
 3. kết nối đết github thông qua link trên github
 4. push
+
+Để cập nhật -- > 
+1. git add filename
+2. git commit -m "Message..."
+3. git push
